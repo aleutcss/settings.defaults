@@ -5,16 +5,17 @@ This module contains a few variables and settings that are
 These are:
 
 ```scss
-	$font-size:          16px;
-	$line-height:        24px;
-	$text-color:         #333;
-	$background-color:   #fff;
 
-	$spacing:			 24px;
-	$spacing--tiny:      6px;
-	$spacing--small:     12px;
-	$spacing--large:     48px;
-	$spacing--huge:      96px;
+	$font-size:	    	16px;
+	$line-height:    	24px;
+	$text-color:		#333;
+	$background-color:	#fff;
+
+	$spacing:       	24px;
+	$spacing--tiny		6px;
+	$spacing--small:	12px;
+	$spacing--large:	48px;
+	$spacing--huge		96px;
 ```
 
 If you want to change any of these variables read more on [Modifying aleut]("#modifying").
